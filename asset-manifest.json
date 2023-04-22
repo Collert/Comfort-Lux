@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Comfort-Lux/static/css/main.ce450cba.css",
+    "main.js": "/Comfort-Lux/static/js/main.bbd3c0b6.js",
+    "static/js/787.6645cbe2.chunk.js": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js",
+    "static/media/livery.png": "/Comfort-Lux/static/media/livery.5122b653aac7bc861737.png",
+    "static/media/bedroom.png": "/Comfort-Lux/static/media/bedroom.768a6a1d542cc88f8f27.png",
+    "static/media/kitchen.png": "/Comfort-Lux/static/media/kitchen.b03a089386890c96be5a.png",
+    "static/media/bathroom.png": "/Comfort-Lux/static/media/bathroom.db1a24378ed286606e4b.png",
+    "static/media/hero_section.png": "/Comfort-Lux/static/media/hero_section.3c0ab8e196b7306f8b51.png",
+    "static/media/engineering_black_48dp.svg": "/Comfort-Lux/static/media/engineering_black_48dp.509778f89107eb747278.svg",
+    "index.html": "/Comfort-Lux/index.html",
+    "static/media/checklist_black_48dp.svg": "/Comfort-Lux/static/media/checklist_black_48dp.158b669d36441ca59249.svg",
+    "static/media/request_quote_black_48dp.svg": "/Comfort-Lux/static/media/request_quote_black_48dp.c6b0c00e4dd183d0e9ea.svg",
+    "static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.c8106c345ec5d1cd988e.svg",
+    "static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.a16a6595ad6e96d58438.svg",
+    "main.ce450cba.css.map": "/Comfort-Lux/static/css/main.ce450cba.css.map",
+    "main.bbd3c0b6.js.map": "/Comfort-Lux/static/js/main.bbd3c0b6.js.map",
+    "787.6645cbe2.chunk.js.map": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce450cba.css",
+    "static/js/main.bbd3c0b6.js"
+  ]
+}
