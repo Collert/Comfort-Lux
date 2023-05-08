@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Comfort-Lux/static/css/main.1c0ed353.css",
-    "main.js": "/Comfort-Lux/static/js/main.4f6986fc.js",
+    "main.js": "/Comfort-Lux/static/js/main.98759deb.js",
     "static/js/787.6645cbe2.chunk.js": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js",
     "static/media/livery.png": "/Comfort-Lux/static/media/livery.5122b653aac7bc861737.png",
     "static/media/bedroom.png": "/Comfort-Lux/static/media/bedroom.768a6a1d542cc88f8f27.png",
@@ -15,11 +15,11 @@
     "static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.c8106c345ec5d1cd988e.svg",
     "static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.a16a6595ad6e96d58438.svg",
     "main.1c0ed353.css.map": "/Comfort-Lux/static/css/main.1c0ed353.css.map",
-    "main.4f6986fc.js.map": "/Comfort-Lux/static/js/main.4f6986fc.js.map",
+    "main.98759deb.js.map": "/Comfort-Lux/static/js/main.98759deb.js.map",
     "787.6645cbe2.chunk.js.map": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c0ed353.css",
-    "static/js/main.4f6986fc.js"
+    "static/js/main.98759deb.js"
   ]
 }
