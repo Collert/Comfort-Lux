@@ -71,13 +71,13 @@
 .img-container>video {
     position: absolute;
     inset: 0;
-    clip-path: inset(0% 0% 0% 100%);
+    /* clip-path: inset(0% 0% 0% 100%); */
     transition: clip-path 500ms ease;
 }
 
-.img-container:hover>video {
+/* .img-container:hover>video {
     clip-path: inset(0% 0% 0% 0%);
-}
+} */
 
 #about-us li {
     font-size: 20px;

@@ -14,14 +14,14 @@ export default function AboutUs (props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
     },[inView])
 
-    React.useEffect(()=>{
-        video.current.addEventListener("mouseenter", ()=>{
-            video.current.play();
-        })
-        video.current.addEventListener("mouseleave", ()=>{
-            video.current.pause();
-        })
-    },[])
+    // React.useEffect(()=>{
+    //     video.current.addEventListener("mouseenter", ()=>{
+    //         video.current.play();
+    //     })
+    //     video.current.addEventListener("mouseleave", ()=>{
+    //         video.current.pause();
+    //     })
+    // },[])
 
     return (
         <section id="about-us">
@@ -44,8 +44,8 @@ export default function AboutUs (props) {
             </div>
             <div className="img-container">
                 {/* <img alt="render of a kitchen" src="./ai_illustrations/kitchen_cropout.png"/> */}
-                <img src="./ai_illustrations/marble_texture_crop.png" alt=""/>
-                <video loop muted ref={video} src="./ai_illustrations/Untitled video - Made with Clipchamp.mp4"></video>
+                {/* <img src="./ai_illustrations/marble_texture_crop.png" alt=""/> */}
+                <video autoPlay loop muted ref={video} src="./ai_illustrations/Untitled video - Made with Clipchamp.mp4"></video>
             </div>
         </section>
     )
