@@ -18,7 +18,7 @@ export default function Image(props) {
                 })
             }, 500);
         }
-    },[props.position.top, props.position.left, props.isActive])
+    },[props, props.isActive])
 
     function closeImage() {
         setClosing(true)
