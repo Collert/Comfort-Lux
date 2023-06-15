@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Comfort-Lux/static/css/main.243a0ec6.css",
-    "main.js": "/Comfort-Lux/static/js/main.2bea2037.js",
+    "main.css": "/Comfort-Lux/static/css/main.6ea14f5d.css",
+    "main.js": "/Comfort-Lux/static/js/main.6b8f7e0a.js",
     "static/js/787.6645cbe2.chunk.js": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js",
     "static/media/livery.png": "/Comfort-Lux/static/media/livery.5122b653aac7bc861737.png",
     "static/media/bedroom.png": "/Comfort-Lux/static/media/bedroom.768a6a1d542cc88f8f27.png",
@@ -14,12 +14,12 @@
     "static/media/request_quote_black_48dp.svg": "/Comfort-Lux/static/media/request_quote_black_48dp.c6b0c00e4dd183d0e9ea.svg",
     "static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/hotel_class_FILL0_wght400_GRAD0_opsz48.c8106c345ec5d1cd988e.svg",
     "static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.svg": "/Comfort-Lux/static/media/credit_card_off_FILL0_wght400_GRAD0_opsz48.a16a6595ad6e96d58438.svg",
-    "main.243a0ec6.css.map": "/Comfort-Lux/static/css/main.243a0ec6.css.map",
-    "main.2bea2037.js.map": "/Comfort-Lux/static/js/main.2bea2037.js.map",
+    "main.6ea14f5d.css.map": "/Comfort-Lux/static/css/main.6ea14f5d.css.map",
+    "main.6b8f7e0a.js.map": "/Comfort-Lux/static/js/main.6b8f7e0a.js.map",
     "787.6645cbe2.chunk.js.map": "/Comfort-Lux/static/js/787.6645cbe2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.243a0ec6.css",
-    "static/js/main.2bea2037.js"
+    "static/css/main.6ea14f5d.css",
+    "static/js/main.6b8f7e0a.js"
   ]
 }
