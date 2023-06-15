@@ -22,24 +22,27 @@ export default function WorkWithUs(props) {
     return (
         <section ref={ref} className={visible ? 'animate' : ''} id="timeline">
             {!props.isPortrait ? 
-            <><h2>współpraca</h2>
-            <div id="left-points">
-                <WorkWithUsSection text="Wyjeżdżamy do obiektu i wykonujemy pomiary gratis"/>
-                <WorkWithUsSection/>
-                <WorkWithUsSection text="Po akceptacji podpisujemy umowę"/>
-                <WorkWithUsSection/>
-                <WorkWithUsSection text="Sprzątamy obiekt i przekazujemy Tobie"/>
+            <div>
+                <h2>współpraca z nami</h2>
+                <div className="timeline">
+                    <div id="left-points">
+                        <WorkWithUsSection text="Wyjeżdżamy do obiektu i wykonujemy pomiary gratis"/>
+                        <WorkWithUsSection/>
+                        <WorkWithUsSection text="Po akceptacji podpisujemy umowę"/>
+                        <WorkWithUsSection/>
+                        <WorkWithUsSection text="Sprzątamy obiekt i przekazujemy Tobie"/>
+                    </div>
+                    <WorkWithUsLine/>
+                    <div id="right-points">
+                        <WorkWithUsSection/>
+                        <WorkWithUsSection text="Sporządzamy kosztorys"/>
+                        <WorkWithUsSection/>
+                        <WorkWithUsSection text="Wykonujemy prace wykończeniowe w ustalonym terminie, rozliczamy się zawsze za faktycznie
+                                                wykonane usługi, bez pobierania zaliczek za robotę"/>
+                        <WorkWithUsSection/>
+                    </div>
+                </div>
             </div>
-            <WorkWithUsLine/>
-            <div id="right-points">
-                <WorkWithUsSection/>
-                <WorkWithUsSection text="Sporządzamy kosztorys"/>
-                <WorkWithUsSection/>
-                <WorkWithUsSection text="Wykonujemy prace wykończeniowe w ustalonym terminie, rozliczamy się zawsze za faktycznie
-                                        wykonane usługi, bez pobierania zaliczek za robotę"/>
-                <WorkWithUsSection/>
-            </div>
-            <h2>z nami</h2></>
             :
             <><h2>współpraca z nami</h2>
             <div className="mobile-points">
